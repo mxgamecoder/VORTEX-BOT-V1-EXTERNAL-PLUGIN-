@@ -1,7 +1,7 @@
 <h1 align="center"> VORTEX-BOT-V1 PLUGINS </h1>
 
 <p align="center">
-<a href="https://github.com/mxgamecoder/VORTEX-BOT-V1-EXTERNAL-PLUGIN-"><img title="Author" src="https://img.shields.io/badge/VORTEX-BOT-V1-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<a href="https://github.com/mxgamecoder/VORTEX-BOT-V1-EXTERNAL-PLUGIN-"><img title="Author" src="https://img.shields.io/badge/VORTEX_PLUGINS-black?style=for-the-badge&logo=Github"></a>
 <p/>
 
  ##  Command Usage
@@ -196,5 +196,5 @@ https://gist.github.com/Guru322/6263ff5478fe20b7467648d694646f6c
 
 ## NOTICE
 
-1. Created For [ULTRA-MD](https://github.com/mxgamecoder/VORTEX-BOT-V1)
+1. Created For [VORTEX-BOT-V1](https://github.com/mxgamecoder/VORTEX-BOT-V1)
 
