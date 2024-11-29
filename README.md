@@ -1,7 +1,7 @@
 <h1 align="center"> VORTEX-MD PLUGINS </h1>
 
 <p align="center">
-<a href="https://github.com/mxgamecoder/EXTERNAL-PLUGIN"><img title="Author" src="https://img.shields.io/badge/VORTEX_MD-black?style=for-the-badge&logo=Github"></a>
+<a href="https://github.com/mxgamecoder/VORTEX-MD"><img title="Author" src="https://img.shields.io/badge/VORTEX_MD-black?style=for-the-badge&logo=Github"></a>
 <p/>
 
  ##  Command Usage
